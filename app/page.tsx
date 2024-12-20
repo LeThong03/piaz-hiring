@@ -3,6 +3,7 @@ import Founder from "@/components/Founder";
 import Hero from "@/components/Hero";
 import Careers from "@/components/Careers";
 import JobsList from "@/components/JobsList";
+import CompanyBanner from "@/components/CompanyBanner";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <Founder/>
       <Careers/>
+      <CompanyBanner/>
       <JobsList />
     </>
   );

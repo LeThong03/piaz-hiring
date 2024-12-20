@@ -35,7 +35,7 @@ const JobsList = () => {
       ]
     },
     {
-        category: "Truyền thông đa phương tiện",
+        category: "Thiết kế đồ hoạ",
         positions: [
           {
             title: "Designer",
