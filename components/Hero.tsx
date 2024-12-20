@@ -1,6 +1,5 @@
 // components/Hero.tsx
 "use client";
-import { Search } from "lucide-react";
 
 
 const Hero = () => {

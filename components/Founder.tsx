@@ -1,6 +1,5 @@
 // components/Founder.tsx
 import Image from 'next/image';
-import { ChevronDown } from 'lucide-react';
 
 const Founder = () => {
   return (

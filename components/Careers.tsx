@@ -1,6 +1,4 @@
 // components/Careers.tsx
-import Link from 'next/link';
-
 const Careers = () => {
   return (
     <div className="py-20 bg-gray-50">

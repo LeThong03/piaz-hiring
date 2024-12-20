@@ -1,6 +1,5 @@
 // components/Navbar.tsx
 import Link from 'next/link';
-import { Search } from 'lucide-react';
 
 const Navbar = () => {
   return (
