@@ -25,25 +25,51 @@ const JobsList = () => {
       ]
     },
     {
-      category: "Truyền thông đa phương tiện",
+      category: "Truyền Thông Đa Phương Tiện",
       positions: [
         {
           title: "Video Editor",
           type: "Remote",
-          formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfpmG-cnTxNT7lUBQIcQzTBBFWkxD8rCbo6rQKkvC8CXH59Bg/viewform" 
+          formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScPwoXsfh65q8hAyhezDJwpWeY2hZYHOoroYk46fNyrpBdxZw/viewform" 
         }
       ]
     },
     {
-        category: "Thiết kế đồ hoạ",
+        category: "Thiết Kế Đồ Hoạ",
         positions: [
           {
             title: "Designer",
             type: "Remote",
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfpmG-cnTxNT7lUBQIcQzTBBFWkxD8rCbo6rQKkvC8CXH59Bg/viewform" 
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd-vwGnl7WDH9yLSrcs_CDhSubqhb6ptJsG_MgEOmOAKIbTAg/viewform" 
           }
         ]
-      }
+      },
+
+      {
+        category: "Quản Lý Kinh Doanh",
+        positions: [
+          {
+            title: "Business Manager",
+            type: "Remote",
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd-vwGnl7WDH9yLSrcs_CDhSubqhb6ptJsG_MgEOmOAKIbTAg/viewform" 
+          },
+          {
+            title: "Trợ lý kinh doanh",
+            type: "Remote",
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSerSnt8V4tm9I87p--cfjx8TY3RP7nXM8ibZKkWaVWsGWZM-g/viewform" 
+          }
+        ]
+      },
+      {
+        category: "Pháp Lý",
+        positions: [
+          {
+            title: "Tuyển dụng team Pháp lý",
+            type: "Remote",
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfdJn8fIIuU2RZm_Cmd86yL4f2fKxRDNuhGCxQrZXDZDIChxQ/viewform" 
+          }
+        ]
+      },
   ];
 
   return (
