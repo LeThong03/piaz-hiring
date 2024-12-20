@@ -1,7 +1,5 @@
 // components/Hero.tsx
 "use client";
-import { Search } from 'lucide-react';
-
 const Hero = () => {
   const scrollToJobs = () => {
     const jobsSection = document.getElementById('jobs-section');
