@@ -15,7 +15,7 @@ const CompanyBanner = () => {
     },
     {
       name: "Chiến Binh Affiliate, MMO",
-      description: "chia sẻ tất tần tật về kinh nghiệm làm Affiliate, MMO",
+      description: "Chia sẻ tất tần tật về kinh nghiệm làm Affiliate, MMO",
       logo: "/images/mmo.jpg"
     }
   ];

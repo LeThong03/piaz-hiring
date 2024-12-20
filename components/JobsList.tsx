@@ -51,7 +51,7 @@ const JobsList = () => {
           {
             title: "Business Manager",
             type: "Remote",
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSd-vwGnl7WDH9yLSrcs_CDhSubqhb6ptJsG_MgEOmOAKIbTAg/viewform" 
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeibdHJTs_hlppC4EyxG6E4M3ccWLLeGjqaLBhj85_c233HWw/viewform" 
           },
           {
             title: "Trợ lý kinh doanh",
